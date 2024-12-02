@@ -1,6 +1,6 @@
 right,left = [],[]
 
-with open('Day1/input1.txt') as f:
+with open('2024/Day1/input1.txt') as f:
     lines = f.readlines()
     for i,el in enumerate(lines[:-1]):
         x,y = list(map(int,el.split()))

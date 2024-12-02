@@ -1,4 +1,4 @@
-with open("Day2/input2.txt", "r") as f:
+with open("2024/Day2/input2.txt", "r") as f:
     lines = f.readlines()
 
 def test(line):
