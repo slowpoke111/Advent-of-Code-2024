@@ -1,5 +1,3 @@
-from copy import copy
-
 with open("Day2/input2.txt", "r") as f:
     lines = f.readlines()
 
